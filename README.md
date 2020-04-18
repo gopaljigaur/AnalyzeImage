@@ -6,7 +6,7 @@ These include:
 * Providing a suggested title to the image
 * Generating tags related to the image
 
-Please note that this API requires the image to be sent in a **base64** format via POST request to `link here`. You will receive a json response containing these tags:
+Please note that this API requires the image to be sent in a **base64** format via POST request to [http://gopaljigaur.ap-south-1.elasticbeanstalk.com/test](http://gopaljigaur.ap-south-1.elasticbeanstalk.com/test). You will receive a json response containing these tags:
 * `Image`
 * `Image_Title` 
 * `Image_Tags`
