@@ -62,7 +62,7 @@ def analyze_img(rdata):
         cv.rectangle(image,(int(x1[i]),int(y1[i])),(int(x2[i]),int(y2[i])),(255,255,255),2)
         #cv.putText(image, (gender[i] +" "+ str(int(age[i]))) , (int(x1[i]), int(y1[i])-5), cv.FONT_HERSHEY_SIMPLEX, 0.5,(255,255,255), 1)
     
-    fontpath = "./Roboto-Medium.ttf"     
+    fontpath = "./Fonts/Roboto-Medium.ttf"     
     font = ImageFont.truetype(fontpath, 22)
     
     img_pil = Image.fromarray(image)
