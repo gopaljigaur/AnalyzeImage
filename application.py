@@ -10,7 +10,6 @@ import numpy as np
 import requests
 from flask import Flask, Response, jsonify, request
 from PIL import Image, ImageFont, ImageDraw
-from titlecase import titlecase
 
 
 def analyze_img(rdata):
