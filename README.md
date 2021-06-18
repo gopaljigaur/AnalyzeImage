@@ -13,4 +13,4 @@ Please note that this API requires the image to be sent in a **base64** format v
 
 The received image will also be encoded in **base64** format and you need to decode it to view the original image.
 
-NOTICE: It's currently defunct. Will resume services shortly
+NOTICE: The API currently does not work due to limitations of my AWS account
