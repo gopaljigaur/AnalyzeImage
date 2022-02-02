@@ -8,7 +8,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.3
 jsonpickle==1.4
 MarkupSafe==1.1.1
-numpy==1.18.2
+numpy==1.21.0
 opencv-python==4.2.0.34
 Pillow==8.3.2
 pybase64==1.0.1
