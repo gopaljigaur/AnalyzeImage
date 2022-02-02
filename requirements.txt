@@ -10,7 +10,7 @@ jsonpickle==1.4
 MarkupSafe==1.1.1
 numpy==1.21.0
 opencv-python==4.2.0.34
-Pillow==8.3.2
+Pillow==9.0.0
 pybase64==1.0.1
 requests==2.23.0
 titlecase==0.12.0
