@@ -14,6 +14,6 @@ Pillow==10.3.0
 pybase64==1.0.1
 requests==2.32.0
 titlecase==0.12.0
-urllib3==1.26.18
+urllib3==1.26.19
 Werkzeug==3.0.1
 zipp==3.19.1
